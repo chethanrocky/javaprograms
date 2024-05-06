@@ -1,0 +1,18 @@
+break;
+
+// match the value of week case 44: size = "Large"; break;
+
+case 48:
+
+size = "Extra Large"; break;
+
+default:
+
+size = "Unknown";
+
+break;
+
+} System.out.println("Size: + size);
+
+}
+}

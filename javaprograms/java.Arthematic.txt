@@ -1,0 +1,14 @@
+import java.io.*;
+public class Arthematic 
+{
+public static void main (String[] args)
+{
+//Arthematic operatorts
+int a=10;
+int b=3;
+System.out.println("a+b="+(a+b));
+System.out.println("a-b="-(a-b));
+System.out.println("a*b="+(a*b));
+System.out.println("a/b="+(a/b));
+System.out.println("a%b="+(a%b));
+}
